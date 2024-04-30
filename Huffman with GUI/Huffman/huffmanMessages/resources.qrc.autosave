@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>C:/Users/Amr Nour/Downloads/bacground.png</file>
+        <file>C:/Users/Amr Nour/Downloads/message.jpg</file>
+    </qresource>
+</RCC>
